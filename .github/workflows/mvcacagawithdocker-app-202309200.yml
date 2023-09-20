@@ -8,7 +8,7 @@ env:
   CONTAINER_APP_NAME: mvcacagawithdocker-app-202309200
   CONTAINER_APP_RESOURCE_GROUP_NAME: aapt0920LinuxGroup
   CONTAINER_REGISTRY_LOGIN_SERVER: mvcacagawithdocker20230920074524.azurecr.io
-  DOCKER_FILE_PATH: ./Dockerfile
+  DOCKER_FILE_PATH: ././MvcAcaGaWithDocker/Dockerfile
   PROJECT_NAME_FOR_DOCKER: mvcacagawithdocker
 jobs:
   build:
